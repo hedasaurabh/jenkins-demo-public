@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './image.png';
 import './App.css';
 import packageJson from '../package.json';
 
